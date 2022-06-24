@@ -6,4 +6,4 @@
  4. run `npm i --location=global @angular/cli`
 
 #Running Application
- - `npm serve --open`
+ - `ng serve --open`
